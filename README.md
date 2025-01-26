@@ -13,8 +13,10 @@ UI/UX Principles: Followed design best practices to create a user-friendly and e
 Learn and apply animation techniques in Figma.
 Develop a project that celebrates gaming culture while showcasing design skills.
 Create an interactive and visually stunning prototype that engages users.
-📸 Screenshots
-(Add some screenshots of the Figma prototype here, if available.)
+
+## 📌 How to Access  
+This project is available as a Figma prototype. You can view or interact with the fan page design here:  
+[Super Smash Bros web page](https://www.figma.com/proto/JjCazp9fsOGJ86AElL3qcA/Super-Smash-Bros-Fan-Website?node-id=1-2&starting-point-node-id=1%3A2)  
 
 📖 Lessons Learned
 Gained hands-on experience with Figma’s animation tools and prototyping features.
